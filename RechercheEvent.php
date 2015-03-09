@@ -1,4 +1,4 @@
-RechercheEvent.php
+
 
 <!DOCTYPE html>
 <!--
@@ -22,7 +22,7 @@ and open the template in the editor.
            <header id='header'>
        <nav id="nav">
   <a href="http://localhost/Accueil.php">Accueil</a>
-   <a href="http://localhost/Créerevent.php">Créer un évènement</a>
+   <a href="http://localhost/Creerevent.php">Créer un évènement</a>
    <a href="http://localhost/RechercheEvent.php">Rechercher un évènement</a>
  <a href="http://localhost/RechercheGroupe.php">Rechercher un groupe</a>
 <a href="http://localhost/Profil.php">Mon profil</a>
