@@ -14,18 +14,18 @@ and open the template in the editor.
     <body>
         
          <div id="start">
-       <a href="file:///C:/Users/Benigro%27s/Documents/NetBeansProjects/PhpWeb/Connexion.php">Connexion</a></li>
-   <a href="C:file:///C:/Users/Benigro%27s/Documents/NetBeansProjects/PhpWeb/inscription.php">Inscription</a></li>
+       <a href="http://localhost/Connexion.php">Connexion</a></li>
+   <a href="http://localhost/inscription.php">Inscription</a></li>
 </div>
         <br/>
              
            <header id='header'>
        <nav id="nav">
-  <a href="file:///C:/Users/Benigro%27s/Documents/NetBeansProjects/PhpWeb/Accueil.php">Accueil</a></li>
-   <a href="file:///C:/Users/Benigro%27s/Documents/NetBeansProjects/PhpWeb/Créerevent.php">Créer un évènement</a></li>
-   <a href="file:///C:/Users/Benigro%27s/Documents/NetBeansProjects/PhpWeb/RechercheEvent.php">Rechercher un évènement</a></li>
- <a href="file:///C:/Users/Benigro%27s/Documents/NetBeansProjects/PhpWeb/RechercheGroupe.php">Rechercher un groupe</a></li>
-<a href="file:///C:/Users/Benigro%27s/Documents/NetBeansProjects/PhpWeb/Profil.php">Mon profil</a></li>
+  <a href="http://localhost/Accueil.php">Accueil</a></li>
+   <a href="http://localhost/Creerevent.php">Créer un évènement</a></li>
+   <a href="http://localhost/RechercheEvent.php">Rechercher un évènement</a></li>
+ <a href="http://localhost/RechercheGroupe.php">Rechercher un groupe</a></li>
+<a href="http://localhost/Profil.php">Mon profil</a></li>
 </nav>
            </header>
         
