@@ -1,3 +1,25 @@
-<p>Bonjour !</p>
+<html>
+<head>
+<?php session_start();
+include("identifiants.php");
+?>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
 
-<p>Je sais comment tu t'appelles, hé hé. Tu t'appelles <?php echo $_POST['Prenom']; ?> !</p>
+<?php
+
+
+
+$marequete = "INSERT  INTO Logs VALUES ( '".$_POST['adresse']."','".$_POST['mdp']."','".$_POST['Nom']."','".$_POST['Prenom']."')  ";
+echo $marequete."yugtuyruier";
+$result=mysql_query($marequete);
+echo $result;
+header('location : Accueil.php");
+mysql_close($link);
+
+?>
+< <a href="Inscription.php">clique ici</a> pour revenir à la page inscription.</p>
+</body>
+</html>
